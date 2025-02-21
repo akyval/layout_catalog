@@ -38,7 +38,6 @@
   align-items: center;
   justify-content: center;
   background-position: 19px 0;
-  background-position: bottom 40px;
   margin-top: 32px;
 
   &_title {
@@ -112,7 +111,7 @@
 
 .main:hover {
   transition-duration: 300ms;
-  transform: scale(120%);
+  transform: scale(1.2);
 }
 
 .card_buy-button:hover {
